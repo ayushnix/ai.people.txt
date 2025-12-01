@@ -1,3 +1,5 @@
 joelreymont,https://github.com/joelreymont
 erudenko,https://github.com/erudenko
 zigbook,https://github.com/zigbook
+zig-vm,https://github.com/zig-vm
+gweidart,https://github.com/gweidart
